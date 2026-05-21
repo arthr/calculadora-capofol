@@ -1,7 +1,7 @@
 export const RECIPE = {
   opium: 50,
-  leaves: 20,
-  syringe: 50,
+  leaves: 50,
+  syringe: 20,
   needle: 20,
 };
 
