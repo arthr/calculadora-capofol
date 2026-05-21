@@ -63,7 +63,7 @@ export function Calculator() {
       {/* Background Ambient Image */}
       <div 
         className="fixed inset-0 z-0 bg-cover bg-center bg-no-repeat opacity-80"
-        style={{ backgroundImage: "url('/background.jpg')" }}
+        style={{ backgroundImage: `url('${import.meta.env.BASE_URL}background.jpg')` }}
       />
       
       {/* Overlay gradient to maintain tech-dark mood and readability */}
