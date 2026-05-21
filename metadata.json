@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora CAPOFOL",
+  "description": "Calculadora de produção máxima e sobras para o composto CAPOFOL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
